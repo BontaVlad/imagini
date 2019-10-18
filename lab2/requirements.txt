@@ -33,7 +33,7 @@ Pygments==2.2.0
 pygobject==3.28.1
 pyparsing==2.2.0
 pysmbc==1.0.15.8
-pyxdg==0.25
+pyxdg==0.26
 PyYAML==3.12
 ranger-fm==1.9.1
 Reflector==2018.3.3.22.1.34
