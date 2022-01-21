@@ -12,7 +12,7 @@ flake8==3.5.0
 gufw==18.4.0
 idna==2.6
 ipdb==0.10.3
-ipython==6.2.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 isc==2.0
 jedi==0.11.1
